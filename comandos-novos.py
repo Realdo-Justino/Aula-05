@@ -65,8 +65,8 @@ minhalista.pop()
 print(minhalista)
 
 #Deleta item na posição específica
-del minhaLista[1]
-print(minhaLista)
+del minhalista[1]
+print(minhalista)
 
 #deleta a lista toda
 #del minhaLista
@@ -99,7 +99,7 @@ print(minhaterceiralista.count("what"))
 
 #Juntando listas
 minhaquartalista = minhasegundalista + minhaterceiralista
-print(minhaquartaLista)
+print(minhaquartalista)
 
 #Encontrando a posição de um item na lista
-print(minhaquartaLista.index("hey"))
+print(minhaquartalista.index("hey"))
